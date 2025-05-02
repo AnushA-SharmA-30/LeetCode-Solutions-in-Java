@@ -13,7 +13,7 @@ maxLength = Math.max(maxLength, right - left + 1);
 } 
 return maxLength; 
 } 
-} 
+}
 public static void main(String[] args) { 
 Solution solution = new Solution(); 
 String s = "AABABBA"; 
